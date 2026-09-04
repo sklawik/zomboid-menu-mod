@@ -1,0 +1,6 @@
+version=1
+id=3795715029
+title=Rick Grimes B42 Updated
+description=Latest and greatest brave man for your main menu wallpaper now updated to B42 crappy lua undocumanted api. Thanks @Eren for wanting this to finally happen after a year.
+tags=Build 42
+visibility=public
