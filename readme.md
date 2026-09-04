@@ -1,4 +1,7 @@
-```important info before using and looking at this```
+```log
+(!) Important info before using and looking at this (!)
+```
+
 Project Zomboid doesn't have any official complete documentation, no templates and each game update something from Lua api breaks.
 
 To have complete control over development you need to recompile the game code and see Java source code to solve future problems.
