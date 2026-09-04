@@ -17,3 +17,13 @@ If you are on linux or using Windows Subsystem for Linux, or MacOS or just anyth
 ```bash
 watch -n 1 cat ~/Zomboid/console.txt
 ```
+
+```bash
+Uploading to Steam Workshop
+```
+
+There is whole dedicated folder in this project that has different folder and file structure than original development project.
+Otherwise, Steam won't accept it and Project Zomboid will not tell you exactly what is wrong.
+If you make changes to original codebase and want to publish it to Steam Workshop as well, you have to manually copy-and paste replacing old scripts from the Steam Workshop folder.
+
+Best of luck.
